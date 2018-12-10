@@ -1,8 +1,19 @@
-# contacts_list_demo_flutter
+# Sample contact list page built in Flutter and iOS
 
-A new Flutter project.
+This sample project shows how to build a contact list page with native iOS vs Flutter.
 
-## Getting Started
+See my article about this here:
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- [Flutter will change everything, and Apple won’t do anything about it](https://medium.com/coding-with-flutter/flutter-will-change-everything-and-apple-wont-do-anything-about-it-f495e7087802)
+
+### Preview
+
+![](screenshots/contact-list-screenshots.png)
+
+### Source code
+
+The root folder is a standart Flutter project.
+
+The iOS project is in the `contactsListDemoIOS` folder.
+
+### [License: MIT](LICENSE.md)
